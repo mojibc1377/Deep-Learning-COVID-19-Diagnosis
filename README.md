@@ -1,4 +1,5 @@
 # COVID-19 Detection Using Neural Networks
+# this project uses The TPU v2 (Tensor Processing Unit version 2) runtime which is a specialized hardware accelerator developed by Google for machine learning workloads
 
 ## Project Description
 This project focuses on developing a deep learning model to detect COVID-19 from chest X-ray images. The objective is to create a robust neural network capable of accurately classifying images into COVID-19 positive and negative categories. This project leverages convolutional neural networks (CNNs) for image classification tasks, aiming for high accuracy and reliability.
